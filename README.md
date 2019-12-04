@@ -6,7 +6,9 @@
 - GitHub
 - Markdown
 - TDD
-- Functional programming
+- Functional programming & best practices
+- DRY principles
+- Separation of concerns
 
 ## Specification of the factory
 Factory will have two processes to produce the naan breads:
