@@ -1,4 +1,4 @@
-# Eng-48 Naan Factory :naan:
+# Eng-48 Naan Factory :bread:
 ### This is a REPO for our Naan Factory.
 
 ### The learning outcomes include:
